@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, serif;
+    font-family: Arial;
     text-align: center;
     background-color: beige;
     margin: 50px;
@@ -8,9 +8,11 @@ body {
 h1 {
     color: #333;
 }
-
+    p.thick {
+  font-weight: bold;
+}
 img {
-    margin-top: 20px;
+    margin-top: 5px;
 }
 
 a {
