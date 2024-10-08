@@ -1,6 +1,7 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial, serif;
     text-align: center;
+    background-color: beige;
     margin: 50px;
 }
 
@@ -13,10 +14,9 @@ img {
 }
 
 a {
-    color: #007BFF;
+    color: blue;
     text-decoration: none;
 }
-
 a:hover {
     text-decoration: underline;
 }
